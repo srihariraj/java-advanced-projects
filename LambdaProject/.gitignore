@@ -1,0 +1,6 @@
+.metadata
+.sts
+.settings
+bin
+*.class
+.project
