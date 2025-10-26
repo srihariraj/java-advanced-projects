@@ -8,6 +8,8 @@ public class Main {
 
 		Dog dog = new Dog();
 		Human man = new Human();
+
+
 		
 		Life puppy = (name,age) -> {
 			System.out.println("im a dog, my name is "+name);
